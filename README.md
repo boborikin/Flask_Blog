@@ -12,4 +12,6 @@
   
 # Установка
   Для установки вам достаточно склонировать данный репозиторий. После чего создать виртуальное окружение venv. После чего установить все необходимые компоненты с помощью команды:
-  <code>python -m pip install -r requirements.txt</code>
+  <p>
+<code>python -m pip install -r requirements.txt</code>
+  </p> 
